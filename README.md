@@ -17,3 +17,7 @@ Aplicación "CryptoBrowser" de la clase de Integración
   - Finalización de la interfaz de la página web.
   - Desarrollo de la interación de la página y de las consultas a la BBDD mediante php.
   - Creación de la segunda ventana de la web, en la que mostramos la tabla con los resultados obtenidos. 
+
+Resultado:
+<img src="integracion/images/buscador.PNG" width="100%">
+<img src="integracion/images/tabla.PNG" width="100%">
