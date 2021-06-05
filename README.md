@@ -19,5 +19,5 @@ Aplicación "CryptoBrowser" de la clase de Integración
   - Creación de la segunda ventana de la web, en la que mostramos la tabla con los resultados obtenidos. 
 
 Resultado:
-<img src="integracion/images/buscador.PNG" width="100%">
+<img src="integracion/images/inicio.PNG" width="100%">
 <img src="integracion/images/tabla.PNG" width="100%">
